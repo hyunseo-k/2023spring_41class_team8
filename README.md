@@ -7,8 +7,9 @@ Have Fun Learning programming with games!
 - Chat GPT API
   
 ## Stack
-React
-Django SQLite
+- React
+- Django
+- SQLite
 
 ## Examples
 ### Coding Battle Page
