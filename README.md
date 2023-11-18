@@ -4,6 +4,11 @@
 Have Fun Learning programming with games!
 - Coding Battle with AI
 - Coding Ethics Balance Game
+- Chat GPT API
+  
+## Stack
+React
+Django SQLite
 
 ## Examples
 ### Coding Battle Page
