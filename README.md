@@ -1,4 +1,4 @@
-![image](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/6869d9da-fc70-4838-baed-9766e8ebc029)# FUNCODING
+# FUNCODING
 <img src="docs/logo.jpg" width="250" height="100"/>
 
 Have Fun Learning programming with games!
