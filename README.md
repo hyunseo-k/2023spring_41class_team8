@@ -1,4 +1,4 @@
-# FUNCODING
+![image](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/6869d9da-fc70-4838-baed-9766e8ebc029)# FUNCODING
 <img src="docs/logo.jpg" width="250" height="100"/>
 
 Have Fun Learning programming with games!
@@ -10,6 +10,10 @@ Have Fun Learning programming with games!
 - React
 - Django
 - SQLite
+
+## DB
+![image](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/7d2705d5-2e95-4cb5-9131-2a33c8fcd3b2)
+
 
 ## Examples
 ### Register/Login Page
@@ -31,7 +35,6 @@ Have Fun Learning programming with games!
 
 ### Coding Battle Page - AI Feedback
 ![ai feedback](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/98c0522a-51cb-45b4-97c8-08b97ed76ea6)
-
 
 ### Coding Ethics Balance Game Page
 ![Coding ethics balance game page](docs/ex2.jpg)
