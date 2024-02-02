@@ -12,8 +12,26 @@ Have Fun Learning programming with games!
 - SQLite
 
 ## Examples
-### Coding Battle Page
+### Register/Login Page
+![회원가입](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/23eaebad-5c37-4032-8e78-c25c62abb608)
+![로그인](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/2b31fd5c-703e-4bca-8e2b-bf2ee112c478)
+
+### Selection Page
+![선택](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/866a919b-d59d-47a1-8406-87c611e43908)
+
+### Coding/Ethics Problem List
+![문제 리스트](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/a3aea66e-a052-47e9-93b4-9de772e294f7)
+![ethics](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/da6f4488-0885-4197-b619-15532c8a8bc4)
+
+### Coding Battle Page - Blur On
 ![Coding Battle page](docs/ex1.jpg)
+
+### Coding Battle Page - Blur Off
+![bluroff](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/3987fd2f-0f26-4d7f-a483-d42329e39b3e)
+
+### Coding Battle Page - AI Feedback
+![ai feedback](https://github.com/hyunseo-k/2023spring_41class_team8/assets/79782180/98c0522a-51cb-45b4-97c8-08b97ed76ea6)
+
 
 ### Coding Ethics Balance Game Page
 ![Coding ethics balance game page](docs/ex2.jpg)
